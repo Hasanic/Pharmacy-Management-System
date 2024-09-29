@@ -1,8 +1,5 @@
 # Pharmacy-Management-System
 this project it was implamented by php and mysql 
 
-#login and password
-first you can  ask Email and Password that you allowed to enter the system 
-Email: faysal
-Password: 12345
-when your enter the system you can create new username and password 
+The first time you visit the system, you will be asked for your email and password, after that you will be allowed to access or use the system.
+After you log in, you can create your own user and then you can log in
